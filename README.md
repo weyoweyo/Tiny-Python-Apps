@@ -14,11 +14,6 @@
 ![image](https://github.com/weyoweyo/Tiny-Python-Apps/blob/main/02-stock-market-data-dashboard/img/img2.PNG)
 
 
-https://simple-stock-dashboard.herokuapp.com/plot1/  
-
-https://simple-stock-dashboard.herokuapp.com/plot2/
-
-
 ## 3. simple blog and translator web app with Django
 
 ![image](https://github.com/weyoweyo/Tiny-Python-Apps/blob/main/03-translator-app/img/tra.gif)
