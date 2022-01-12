@@ -2,6 +2,8 @@
 
 A simple dashboard to plot stock market data using Flask and deploying with Heroku.
 
+run app.py
+
 
 Reference: 
 

@@ -2,6 +2,9 @@
 
 A simple web app to plot different interactive charts.
 
+run wage-one-industry.py  
+run avg-wage-all-industries-spline.py
+
 
 Reference: 
 
