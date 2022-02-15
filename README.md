@@ -7,6 +7,10 @@
 
 ## 2. simple stock market / mutual fund data dashboard with Flask and Heroku
 
+https://simple-stock-dashboard.herokuapp.com/plot1/
+
+https://simple-stock-dashboard.herokuapp.com/plot2/
+
 ![image](https://github.com/weyoweyo/Tiny-Python-Apps/blob/main/02-stock-market-data-dashboard/img/img1.PNG)
 
 
